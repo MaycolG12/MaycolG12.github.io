@@ -1,6 +1,6 @@
 body {
-    background: (#D6E5E3);
-    color:(#D6E5E3);
+    background: (#021d19);
+    color:(#011310);
     padding: 10px;
     font-family: arial;
 }
@@ -20,7 +20,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: rgb(97, 3, 3);
     flex: 1;
     margin: 0;
 }
@@ -33,7 +33,7 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: #fff;
+    color: #160101;
 }
 
 /* main container area beneath menu */
