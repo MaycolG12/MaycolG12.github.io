@@ -32,7 +32,7 @@ var init = function (window) {
         }
 
         // TODO 3 / 7 : Call the drawCircle() function 
-       for (var i = 0; i<100; i++){
+       for (var i = 0; i<0; i++){
         drawCircle();
        }
 
@@ -47,7 +47,7 @@ var init = function (window) {
         */
         function update() {
             // TODO 4 : Update the circle's position //
-            for (var i = 0; i<100; i++){
+            for (var i = 0; i<400; i++){
             physikz.updatePosition(circles[i]);
         
             
